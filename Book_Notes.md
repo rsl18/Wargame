@@ -40,6 +40,46 @@ Thucydides and *Polybius* using mathematical calculations to explore the relatio
 
 Enlightenment thinkers like *Vauban* calculated when fortresses would fall given how long to dig trenches and conduct bombardments
 
+Bülow: ‘The agency of military energies, like the other effects of nature, becomes weaker … in an inverse ratio of the square of the distance’ and hence that none of the eleven large European states would be able to conquer another. -disproved by Napoleon
+
+### Lanchester N-Square Law ie. overmatch
+
+`Unfortunately, Lanchester’s model contains several highly dubious assumptions. It makes no allowance for the density of troops increasing their exposure to fire, whereas we know that dispersion has been a key factor in limiting casualty rates as weapons have become more and more effective.15 His model has all shots aimed at surviving enemy forces, rather than inflicting multiple redundant hits on the same targets or even hitting friends who have been misidentified. It assumes that opponents fire simultaneously, and that each shot has only a small chance of hitting its target. More realistic assumptions in any of these areas could easily erode the square law altogether or even give the advantage to the smaller force (especially if it fires first). On the other hand, Lanchester’s model assumes that overmatched troops continue to fire with unchanged effectiveness even while being ground down to utter annihilation, rather than taking cover, fleeing or surrendering without even inflicting the limited enemy casualties that his model predicts.`
+
+`Even professional wargames and simulations, for all their sophistication, often have Lanchester’s equations at their heart, and hence offer at best a vague approximation of real engagements depending on whether his offsetting errors happen broadly to cancel out`
+
+### Operations Research
+
+Tizard and Blackett WWII
+Nuclear strategy cold war
+Failure at modeling guerilla warfare during Vietnam
+
+`What has changed over time is the sophistication of the modelling, with the most glaring weaknesses of simple Lanchestrian formulae being explicitly addressed so that professional models do now offer challenging and thought-provoking attempts to come to grips analytically with the profound complexities of the combat experience.`
+
+### Prominent Operations Research Scientists Analyzing Data with Models
+
+Zetterling and Frankson WWII battles
+Ian Gooderson WWII air support
+David Rowland human performance and combat outcomes
+Colonel Trevor Dupuy - 73 variable model fitting to historical combat data
+Stephen Biddle - graphical presentation of different offensives
+
+### Game Theory
+
+Nuemann and Morgenstern - Theory of Games and Economic Behaviour
+
+Schelling - Cold War simulation
+
+![alt text](https://github.com/rsl18/Wargame/raw/master/1_cold_war.PNG "Payoff Matrix")
+
+`The key feature of this non-zero-sum game is that either superpower will gain an advantage from adopting a hawkish stance if its enemy is more restrained, but that both will be worse off in the case of mutual hostility than in the case of mutual restraint. By manipulating the relative numerical payoffs associated with the different boxes, Schelling and similar theorists sought to model three different kinds of superpower competition. One was the nuclear arms race, in which both sides continually built up their arsenals based on worst case planning about ongoing enemy weapons production, but in which both could benefit if they could trust the adversary to display mutual restraint (for instance, through arms control agreements). The second situation was a crisis or limited war, in which threats of escalation could secure a favourable resolution for the more hard line protagonist, but in which mutual hawkishness might trigger Armageddon. The final and most nightmarish scenario was one in which the vulnerability of both side’s nuclear arsenals to a first strike created a ‘reciprocal fear of surprise attack’, such that the least bad option was to fire first even though the ‘victory’ this produced would in this case be far inferior in value to that obtainable by avoiding nuclear war altogether`
+
+
+
+
+
+
+
 
 
 
