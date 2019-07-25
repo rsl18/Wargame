@@ -74,6 +74,13 @@ Schelling - Cold War simulation
 
 `The key feature of this non-zero-sum game is that either superpower will gain an advantage from adopting a hawkish stance if its enemy is more restrained, but that both will be worse off in the case of mutual hostility than in the case of mutual restraint. By manipulating the relative numerical payoffs associated with the different boxes, Schelling and similar theorists sought to model three different kinds of superpower competition. One was the nuclear arms race, in which both sides continually built up their arsenals based on worst case planning about ongoing enemy weapons production, but in which both could benefit if they could trust the adversary to display mutual restraint (for instance, through arms control agreements). The second situation was a crisis or limited war, in which threats of escalation could secure a favourable resolution for the more hard line protagonist, but in which mutual hawkishness might trigger Armageddon. The final and most nightmarish scenario was one in which the vulnerability of both side’s nuclear arsenals to a first strike created a ‘reciprocal fear of surprise attack’, such that the least bad option was to fire first even though the ‘victory’ this produced would in this case be far inferior in value to that obtainable by avoiding nuclear war altogether`
 
+### Counterfactual Studies
+
+HG Wells
+Stolfi - alternate WWII
+
+`Several scholars, such as Richard Ned Lebow, have sought to develop a theoretical methodology for counterfactual speculation, going beyond the rather vague and impressionistic frameworks in the counterfactual studies themselves. One conclusion is that evidence is of critical importance, and that the better documented the underpinnings of the historical event, the more convincingly one can estimate what the impact of specific changes might have been. A second point is that pattern building and comparisons with similar events can be helpful, since they offer a way of offsetting the uniqueness of the event itself. A third observation is that there is a distinction between ‘plausible’ and ‘miraculous’ changes to reality, and that the more easily it is possible to imagine a change actually occurring without requiring other complex antecedents, the more securely one may speculate about the overall effect. A fourth point is that proper attention must be paid to the likelihood that any change will trigger further consequential changes – these might magnify the disruption through a chaotic ‘butterfly effect’, or they might on the contrary damp down and offset the initial perturbation and so return later events to something more like their historical course`
+
 
 
 
