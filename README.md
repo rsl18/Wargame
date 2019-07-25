@@ -1,3 +1,7 @@
+###Book Notes
+
+## Simulating War: Studying Conflict Through Simulation Games
+
 # Intro
 
 Wei Hai and Chaturanga - Go and chess
@@ -15,4 +19,5 @@ Computer Games
 
 "Wargames enthusiasts hence tend to be very reticent in public about their activities, and to cloak them in euphemisms such as ‘conflict simulation’.25 Quite a few prominent writers on military history are themselves wargamers, but you would not know it from their published books.26 Most scholars ignore or dismiss wargaming, for reasons I explore in Chapter 1.27 Games in general suffer from a deep-rooted perception of juvenilia, as illustrated by the remarkably limited attention and respect that the entire modern video games industry receives in the print and broadcast media, despite having a turnover larger than Hollywood.28 As Jane McGonigal put it: ‘Almost all of us are biased against games today – even gamers. We can’t help it. It is part of our culture, part of our language, and it’s even woven into the way we use the words “game” and “player” in everyday conversation."
 
+# 1 - Modelling War
 
