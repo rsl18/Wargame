@@ -2,7 +2,7 @@
 
 ## Intro
 
-Wei Hai and Chaturanga - Go and chess
+Wei Hai (Actually should be Wei Qi...Hai is Cantonese) and Chaturanga - Go and chess
 
 "In games, this competition is mainly artificial, while in war it is mainly situational, but the effect is the same. Both war and games pit humans against one another in a dynamic interactive contest of wits and resources, as the opposing sides struggle to prevail."
 
