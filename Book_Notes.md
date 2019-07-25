@@ -21,4 +21,4 @@ Computer Games
 
 ‘[A] wargame is a warfare model or simulation whose operation does not involve the activities of actual military forces, and whose sequence of events affects and is, in turn, affected by the decisions made by players representing the opposing sides.’ - Peter Perla
 
-![alt text](https://github.com/rsl18/Wargame/raw/master/imgs/1_venn.png "Wargaming Diagram")
+![alt text](https://github.com/rsl18/Wargame/raw/master/1_venn.PNG "Wargaming Diagram")
