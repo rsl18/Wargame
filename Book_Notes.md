@@ -1,8 +1,6 @@
-###Book Notes
-
 ## Simulating War: Studying Conflict Through Simulation Games
 
-# Intro
+### Intro
 
 Wei Hai and Chaturanga - Go and chess
 
